@@ -1,1 +1,2 @@
-Prepoznava od pdf Kalkulus\Verojantosnt\Diskretna matematika
+pdf Kalkulus\Verojantosnt\Diskretna matematika
+
